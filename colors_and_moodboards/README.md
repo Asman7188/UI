@@ -4,7 +4,6 @@
 ## Project Overview
 This project involves a series of exercises to practice UI/UX design skills focusing on color palettes, moodboards, typography, and screen replication using **Figma**. It is designed to enhance understanding of colors, design consistency, and the overall aesthetic of digital products.
 
----
 
 ### Table of Contents
 1. [Color Palette Extraction](#color-palette-extraction)
@@ -18,11 +17,9 @@ This project involves a series of exercises to practice UI/UX design skills focu
     - Spotify
     - Bitcoin Dashboard
 6. [Deliverables](#deliverables)
-7. [Naming Convention](#naming-convention)
-8. [Resources](#resources)
-9. [Contributing](#contributing)
+7. [Github](#github)
+8. [Author](author)
 
----
 
 ### 1. Color Palette Extraction
 #### Objective
@@ -95,18 +92,6 @@ Four **Figma** files, one for each moodboard, including:
 #### Objective
 Identify and document the typographies used on specific websites.
 
-#### Websites
-- [UNRIC](https://unric.org/no)
-- [Strongbow Cider](https://www.strongbowcider.com/bug-exterminator-brisbane)
-- [BBQ Grills and Fire](http://www.bbqgrillsandfire.com/)
-- [Wikipedia (Mario Botta)](https://pt.wikipedia.org/wiki/Mario_Botta)
-- [Sky Investigations](https://skyinvestigations.com/)
-- [Bumble](https://bumble.com/)
-- [Adopte 1 Poule](https://adopte1poule.fr/)
-- [Slavery Footprint](http://slaveryfootprint.org/)
-- [Tomorrowland](https://www.tomorrowland.com/fr/festival/bienvenue)
-- [Artisans Canada](https://artisanscanada.com/)
-
 #### Instructions
 - Document each website's typography.
 
@@ -138,28 +123,16 @@ A **Figma** file showing:
 #### Deliverable
 Separate **Figma** files for each challenge, replicating the specified designs.
 
----
 
 ### 6. Deliverables
 All deliverables must be uploaded to **GitHub** following the file naming convention.
 
----
 
-### 7. Naming Convention
-Format:  
-`LastName_FirstName_DeliverableName_Date_VersionNumber`  
-Example:  
-`Doe_John_MidFiPrototype_05242024_V1`
+### 7. Github 
 
----
+- Due to huge nature of the files, the projuct has been done on github. Clone the repository to access the project: https://github.com/Asman7188/UI.git
 
-### 8. Resources
-- [Color Wheel Combinations](https://coloursandmaterials.wordpress.com/2014/09/16/colour-system/)
-- [Figma Tutorials](https://www.figma.com/)
-- [Google Fonts](https://fonts.google.com/)
-- Instagram Accounts: `ux_ui.world`, `ui.netwrk`, `uxuidailytips`
 
----
+### 8. Author
 
-### 9. Contributing
-If there are any issues or proposed changes, feel free to submit an issue or create a pull request on GitHub.
+- Malika Asman
